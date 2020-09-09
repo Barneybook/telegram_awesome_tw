@@ -1,5 +1,7 @@
 # Telegram 群組總整理
 
+[![hackmd-github-sync-badge](https://hackmd.io/UiHtB1JTTCehD0AL0LVY5Q/badge)](https://hackmd.io/UiHtB1JTTCehD0AL0LVY5Q)
+
 ## 中文化連結區
 * [正體中文](https://t.me/setlanguage/taiwan)
     * [正體中文，中文化討論群組](https://t.me/translation_taiwan)
@@ -18,3 +20,5 @@
 * [Telegram 新手問答區](https://t.me/TGQNA) 8849人 2020/09/09
 * [Telegram 新手討論區](https://t.me/gswtfgc) 8856人 2020/09/09
 
+## 資訊相關群組整理
+* [Telegram 資訊相關 群組清單 (GROUP)](https://hackmd.io/xIIzLJHsTFKDJZF1kcM-eA)
